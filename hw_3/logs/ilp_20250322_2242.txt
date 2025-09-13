@@ -1,0 +1,278 @@
+20250322_211340 [INFO] Program spuštěn.
+20250322_211340 [INFO] Čtu soubor: D:\Unicorn Collage\4.semestr\AI_new\hw_3\dsjc125.1.col.txt
+20250322_211340 [INFO] Nalezeno 125 vrcholů.
+20250322_211340 [INFO] Dokončeno načítání grafu.
+20250322_211340 [INFO] Graf byl úspěšně načten.
+20250322_211340 [INFO] Spouštím DSATUR obarvení grafu.
+20250322_211340 [ITEM] DSATUR: Vrchol 84 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 77 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 110 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 97 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 101 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 9 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 58 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 49 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 52 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 61 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 17 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 122 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 14 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 66 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 108 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 51 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 41 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 80 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 89 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 42 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 106 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 64 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 93 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 115 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 100 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 91 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 82 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 11 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 96 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 117 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 35 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 69 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 24 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 45 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 62 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 16 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 12 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 114 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 98 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 83 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 76 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 119 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 13 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 46 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 47 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 103 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 32 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 8 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 99 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 125 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 105 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 27 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 124 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 55 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 15 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 92 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 5 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 65 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 116 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 3 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 63 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 88 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 123 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 26 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 107 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 18 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 23 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 6 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 74 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 56 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 57 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 72 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 113 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 36 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 40 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 85 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 48 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 67 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 31 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 70 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 28 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 19 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 53 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 118 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 37 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 59 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 10 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 78 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 112 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 111 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 38 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 68 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 22 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 54 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 50 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 71 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 87 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 94 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 39 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 102 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 1 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 2 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 25 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 44 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 120 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 79 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 104 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 29 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 43 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 33 přiřazen barva 6
+20250322_211340 [ITEM] DSATUR: Vrchol 75 přiřazen barva 4
+20250322_211340 [ITEM] DSATUR: Vrchol 81 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 90 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 121 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 20 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 21 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 34 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 95 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 109 přiřazen barva 5
+20250322_211340 [ITEM] DSATUR: Vrchol 73 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 4 přiřazen barva 2
+20250322_211340 [ITEM] DSATUR: Vrchol 7 přiřazen barva 3
+20250322_211340 [ITEM] DSATUR: Vrchol 30 přiřazen barva 1
+20250322_211340 [ITEM] DSATUR: Vrchol 60 přiřazen barva 1
+20250322_211340 [INFO] DSATUR obarvení dokončeno.
+20250322_211340 [INFO] DSATUR řešení použilo 6 barev.
+20250322_211340 [INFO] Spouštím multi-greedy obarvení pro 10 iterací.
+20250322_211340 [ITEM] Iterace 1: použitých barev = 8
+20250322_211340 [ITEM] Iterace 2: použitých barev = 8
+20250322_211340 [ITEM] Iterace 3: použitých barev = 7
+20250322_211340 [ITEM] Iterace 4: použitých barev = 8
+20250322_211340 [ITEM] Iterace 5: použitých barev = 9
+20250322_211340 [ITEM] Iterace 6: použitých barev = 8
+20250322_211340 [ITEM] Iterace 7: použitých barev = 8
+20250322_211340 [ITEM] Iterace 8: použitých barev = 9
+20250322_211340 [ITEM] Iterace 9: použitých barev = 8
+20250322_211340 [ITEM] Iterace 10: použitých barev = 8
+20250322_211340 [INFO] Nejlepší řešení z 10 iterací má 7 barev.
+20250322_211340 [INFO] Multi-Greedy řešení použilo 7 barev.
+20250322_211340 [INFO] Spouštím ILP obarvení s maximálně 6 barvami.
+20250322_223732 [INFO] ILP model byl vyřešen.
+20250322_223732 [INFO] ILP řešení použilo 5 barev.
+20250322_223732 [INFO] Spouštím lokální vyhledávání pro zlepšení obarvení.        
+20250322_223732 [INFO] Lokální vyhledávání dokončeno.
+20250322_223732 [INFO] Lokální vyhledávání (DSATUR) dosáhlo obarvení s 6 barvami. 
+
+20250322_223732 [ITEM] Finální obarvení vrcholů (DSATUR):
+20250322_223732 Vrchol 1: barva 2        
+20250322_223732 Vrchol 2: barva 5        
+20250322_223732 Vrchol 3: barva 4        
+20250322_223732 Vrchol 4: barva 2        
+20250322_223732 Vrchol 5: barva 3        
+20250322_223732 Vrchol 6: barva 3        
+20250322_223732 Vrchol 7: barva 3        
+20250322_223732 Vrchol 8: barva 4        
+20250322_223732 Vrchol 9: barva 4        
+20250322_223732 Vrchol 10: barva 2       
+20250322_223732 Vrchol 11: barva 1       
+20250322_223732 Vrchol 12: barva 1       
+20250322_223732 Vrchol 13: barva 5       
+20250322_223732 Vrchol 14: barva 1       
+20250322_223732 Vrchol 15: barva 6       
+20250322_223732 Vrchol 16: barva 4       
+20250322_223732 Vrchol 17: barva 2       
+20250322_223732 Vrchol 18: barva 5       
+20250322_223732 Vrchol 19: barva 5       
+20250322_223732 Vrchol 20: barva 2       
+20250322_223732 Vrchol 21: barva 5       
+20250322_223732 Vrchol 22: barva 5       
+20250322_223732 Vrchol 23: barva 4       
+20250322_223732 Vrchol 24: barva 3
+20250322_223732 Vrchol 25: barva 5       
+20250322_223732 Vrchol 26: barva 6       
+20250322_223732 Vrchol 27: barva 2       
+20250322_223732 Vrchol 28: barva 6       
+20250322_223732 Vrchol 29: barva 5       
+20250322_223732 Vrchol 30: barva 1       
+20250322_223732 Vrchol 31: barva 6       
+20250322_223732 Vrchol 32: barva 4       
+20250322_223732 Vrchol 33: barva 6       
+20250322_223732 Vrchol 34: barva 2       
+20250322_223732 Vrchol 35: barva 5       
+20250322_223732 Vrchol 36: barva 1       
+20250322_223732 Vrchol 37: barva 3       
+20250322_223732 Vrchol 38: barva 1       
+20250322_223732 Vrchol 39: barva 5       
+20250322_223732 Vrchol 40: barva 1       
+20250322_223732 Vrchol 41: barva 2       
+20250322_223732 Vrchol 42: barva 2       
+20250322_223732 Vrchol 43: barva 4       
+20250322_223732 Vrchol 44: barva 1       
+20250322_223732 Vrchol 45: barva 2       
+20250322_223732 Vrchol 46: barva 4       
+20250322_223732 Vrchol 47: barva 3       
+20250322_223732 Vrchol 48: barva 4       
+20250322_223732 Vrchol 49: barva 2       
+20250322_223732 Vrchol 50: barva 1       
+20250322_223732 Vrchol 51: barva 1       
+20250322_223732 Vrchol 52: barva 3       
+20250322_223732 Vrchol 53: barva 3       
+20250322_223732 Vrchol 54: barva 2       
+20250322_223732 Vrchol 55: barva 3       
+20250322_223732 Vrchol 56: barva 2       
+20250322_223732 Vrchol 57: barva 2       
+20250322_223732 Vrchol 58: barva 1       
+20250322_223732 Vrchol 59: barva 6       
+20250322_223732 Vrchol 60: barva 1       
+20250322_223732 Vrchol 61: barva 5       
+20250322_223732 Vrchol 62: barva 1       
+20250322_223732 Vrchol 63: barva 2       
+20250322_223732 Vrchol 64: barva 4       
+20250322_223732 Vrchol 65: barva 2       
+20250322_223732 Vrchol 66: barva 2       
+20250322_223732 Vrchol 67: barva 4       
+20250322_223732 Vrchol 68: barva 1       
+20250322_223732 Vrchol 69: barva 1       
+20250322_223732 Vrchol 70: barva 5       
+20250322_223732 Vrchol 71: barva 5       
+20250322_223732 Vrchol 72: barva 3       
+20250322_223732 Vrchol 73: barva 2       
+20250322_223732 Vrchol 74: barva 1       
+20250322_223732 Vrchol 75: barva 4       
+20250322_223732 Vrchol 76: barva 2       
+20250322_223732 Vrchol 77: barva 2       
+20250322_223732 Vrchol 78: barva 5       
+20250322_223732 Vrchol 79: barva 4       
+20250322_223732 Vrchol 80: barva 5       
+20250322_223732 Vrchol 81: barva 1       
+20250322_223732 Vrchol 82: barva 2       
+20250322_223732 Vrchol 83: barva 4       
+20250322_223732 Vrchol 84: barva 1       
+20250322_223732 Vrchol 85: barva 3       
+20250322_223732 Vrchol 86: barva 3       
+20250322_223732 Vrchol 87: barva 6       
+20250322_223732 Vrchol 88: barva 5       
+20250322_223732 Vrchol 89: barva 5       
+20250322_223732 Vrchol 90: barva 2       
+20250322_223732 Vrchol 91: barva 2       
+20250322_223732 Vrchol 92: barva 4       
+20250322_223732 Vrchol 93: barva 1       
+20250322_223732 Vrchol 94: barva 4       
+20250322_223732 Vrchol 95: barva 3       
+20250322_223732 Vrchol 96: barva 3       
+20250322_223732 Vrchol 97: barva 4       
+20250322_223732 Vrchol 98: barva 1       
+20250322_223732 Vrchol 99: barva 4       
+20250322_223732 Vrchol 100: barva 5      
+20250322_223732 Vrchol 101: barva 3      
+20250322_223732 Vrchol 102: barva 4      
+20250322_223732 Vrchol 103: barva 5      
+20250322_223732 Vrchol 104: barva 5      
+20250322_223732 Vrchol 105: barva 1      
+20250322_223732 Vrchol 106: barva 3      
+20250322_223732 Vrchol 107: barva 6      
+20250322_223732 Vrchol 108: barva 5      
+20250322_223732 Vrchol 109: barva 5      
+20250322_223732 Vrchol 110: barva 3      
+20250322_223732 Vrchol 111: barva 2      
+20250322_223732 Vrchol 112: barva 6      
+20250322_223732 Vrchol 113: barva 1      
+20250322_223732 Vrchol 114: barva 3      
+20250322_223732 Vrchol 115: barva 2      
+20250322_223732 Vrchol 116: barva 3      
+20250322_223732 Vrchol 117: barva 4      
+20250322_223732 Vrchol 118: barva 4      
+20250322_223732 Vrchol 119: barva 2      
+20250322_223732 Vrchol 120: barva 6      
+20250322_223732 Vrchol 121: barva 2      
+20250322_223732 Vrchol 122: barva 4      
+20250322_223732 Vrchol 123: barva 6      
+20250322_223732 Vrchol 124: barva 5      
+20250322_223732 Vrchol 125: barva 6

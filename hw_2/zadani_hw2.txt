@@ -1,0 +1,13 @@
+Zadaní
+1) reprezentace Schellingova modelu rep
+2) implementace funkce step(rep) - vrací rep po provedení 1 kroku
+3) simulace posloupnosti kroků + zachycení grafem vývoje # spokojených jedinců simulate (rep.step-mum)
+	- dokud existuje nespokojený jedinec
+4) funkce kreslici rep plot(rep)
+
+Assignment
+1) representation of Schelling's model rep
+2) implementation of function step(rep) - returns rep after 1 step
+3) simulation of sequence of steps + graphing of development of # of satisfied individuals simulate (rep.step-mum)
+	- as long as there is an dissatisfied individual
+4) function plot rep plot(rep)

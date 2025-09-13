@@ -1,0 +1,24 @@
+1) Lokální Prohledávání
+Jak se projeví rozdílné strategie PHC a BS při řešení úlohy N-dam,
+kde může být většina sousedních stavů konfliktní?
+
+2) Evoluční Algoritmy
+Jaké dopady má volba velikosti konstanty při přičítání na průběh evoluce,
+a jak ji dynamicky upravovat v závislosti na fázi hledání?
+
+3) Neuronové Sítě
+Jak může neuronová síť bez učení s učitelem odlišit mezi významným vzorem
+v datech a šumem, když nemá žádný učící signál?
+
+4) Učení s Učitelem
+Jaké konkrétní limity a podmínky UAT klade na složitost architektury neuronových sítí,
+a jak ovlivňuje volbu aktivační funkce a počtem vrstev pro
+dosažení optimální aproximace v reálných úlohách?
+
+5) Stromové Prohledávání
+Může být někdy výhodné kombinovat více heuristik v jednom běhu A* algoritmu?
+Pokud ano, jak by se to dalo udělat efektivně?
+
+6) Prohledávání s Protivníkem
+AlphaGo se nejdříve učilo z lidských her, později však trénovalo samo proti sobě.
+Co tím získalo, co ztratilo a jaký dopad by to mělo na generalizaci a bias modelu?

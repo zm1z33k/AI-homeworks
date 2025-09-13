@@ -1,0 +1,22 @@
+Zadani:
+- prostředí: [X, X, X, X, 0, 0, X, 0, 0, X]
+- okolí: XX0XX
+- pravidla: experimentalni
+	- živá buňka přežije <=> Ex = 2 nebo 4
+	- buňka se narodí <=> Ex = 2 nebo 3
+- jednotlivé generace lze zaznamenávat pod sebe
+	- 0. [X, 0, X, 0, 0, X, X, X]
+	- 1. [X, X, 0, 0, X, 0, X, X]
+	- 2. [X, 0, X, 0, 0, 0, X, X]
+	- 3. [X, X, 0, X, 0, 0, 0, 0]
+	- 4. [0, 0, X, 0, 0, X, X, 0]
+	=> vzniká obrazec
+Uloha:
+- rozchodit python + anaconda
+- implementovat fukci "step(row)"
+	- vezme 1 řádek (generaci) game of life
+	  a vrátí řádek (generaci) následující
+- implementovat funkci "print_row(row)"
+	- vykreslí řádek
+- experimentování s pravidly a počáteční generací
+- vygenerování vlastního originálního obrazce

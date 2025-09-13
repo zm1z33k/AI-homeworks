@@ -1,0 +1,36 @@
+PŘÍPRAVA: DEAP nastavení
+1. Definuješ délku genomu na základě historie 2^(2 * HISTORY_LENGTH)
+
+2. Vytvoříš typy jedinců a fitness funkcí pomocí 'creator'
+
+3. Registruješ operátory:
+   - Jak vytvořit jedince a populaci
+   - Jak hodnotit 'fitness'
+   - Jak křížit 'cxTwoPoint'
+   - Jak mutovat 'mutFlipBit'
+   - Jak vybírat 'selTournament' s 'tournsize=3'
+
+Spuštění evoluce
+4. Vytvoříš populaci 100 náhodných genomů
+
+5. Nastavíš:
+   - 'ngen = 50' generací
+   - 'cxpb = 0.5' pravděpodobnost křížení
+   - 'mutpb = 0.2' pravděpodobnost mutace
+6. Spustíš evoluční algoritmus přes 'eaSimple(...)'
+   - Každý genom se ohodnotí pomocí 'fitness(...)'
+   - Nejlepší se vyberou (turnajově po 3)
+   - Vybraní se mohou křížit (dvojice, 50 % šance)
+   - Křížení/mutace vytváří novou generaci
+
+FITNESS FUNKCE
+7. Pro každého jedince:
+   - Odehraje 100 kol proti náhodnému soupeři (0 nebo 1)
+   - V každém kole se jeho tah určí pomocí funkce 'zrada(...)', podle historie
+   - Získává skóre podle pravidel vězňova dilematu (2, 0, 5, 1 bod)
+   - Součet všech bodů je jeho fitness
+
+Výstup
+8. Po 50 generacích se najde nejlepší jedinec pomocí 'selBest(...)'
+
+9. Funkce 'zrada(...)' se ukáže na testovacích historických datech

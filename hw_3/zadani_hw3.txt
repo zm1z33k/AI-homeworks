@@ -1,0 +1,50 @@
+Barvení Grafu
+- zadaný graf G=(V,E)
+- cíl: Přiřadit V vrcholům bravu, tak aby měly vrcholy propojené hranou měly různé barvy
+
+Struktura:
+- funkce "isColoring(G, col)"
+	- vrací true, pokud je col validní obarvení G
+- funkce "color(G, k, steps)"
+	- G = zadaný graf
+	- k = počet barev
+	- steps = max počet kroků
+	- vrací dvojici (col, solved)
+		- col = seznam barev vrcholů
+		- solved = true/false => zda je validní obarvení
+Zadani:
+1) implementovat lokální prohledávání
+2) sofistikovaná varianta (nikoliv jen náhradní procházka)
+3) metoda úniku z lokálního optima
+
+otázky:
+1) Je graf 'G' obarvitelný 'k' barvami?
+2) Jaký minimální počet barev stačí na obarvení 'G'?
+- test na DIMACS datasetu
+Note: výpočet může trvat dlouho => ukládejte si spočítané obarvení
+
+
+Graph Coloring
+- given graph G=(V,E)
+- goal: Assign color to V vertices, so that vertices connected by an edge have different colors
+
+Structure:
+- function "isColoring(G, col)"
+	- returns true if col is a valid coloring of G
+- function "color(G, k, steps)"
+	- G = given graph
+	- k = number of colors
+	- steps = max number of steps
+	- returns pair (col, solved)
+		- col = list of vertex colors
+		- solved = true/false => whether coloring is valid
+Tasks:
+1) implement local search
+2) sophisticated variant (not just a replacement walk)
+3) method of escaping from local optima
+
+questions:
+1) Is graph 'G' colorable with 'k' colors?
+2) What is the minimum number of colors sufficient to color 'G'?
+- test on DIMACS dataset
+Note: calculation may take a long time => save calculated coloring

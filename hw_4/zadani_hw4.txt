@@ -1,0 +1,10 @@
+Evolucni generovani terenu
+Zadani:
+- rozchodit knihovnu DEAP
+- pomoci DEAP vygenerovat "krajina" dle sofistikované fitness funkce
+
+Kriteria:
+- pocet jezirek, pocet vrcholu
+- variabilita krajiny
+- % zatopenych oblasti
+- velikost jezirek
